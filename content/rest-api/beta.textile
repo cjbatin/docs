@@ -6,6 +6,7 @@ api_separator:
 jump_to:
   Help with:
     - Overview#overview
+    - Batch Publish#batch
 ---
 
 h2(#overview). REST API Beta Features
@@ -13,7 +14,6 @@ h2(#overview). REST API Beta Features
 The contents of this section are beta features of our REST API. Although many of these features are fully functional, they are liable to change.
 
 h2(#features). Features
-
 
 h3(#batch). Batch publish
 
